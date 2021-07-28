@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/temp.png</file>
+        <file>images/tachometer.png</file>
+        <file>images/speedo.png</file>
+        <file>images/seatbelt.png</file>
+        <file>images/rightArrow.png</file>
+        <file>images/needle.png</file>
+        <file>images/lowTire.png</file>
+        <file>images/leftArrow.png</file>
+        <file>images/check.png</file>
+        <file>images/battery.png</file>
+        <file>images/ABS.png</file>
+        <file>qml/main.qml</file>
+        <file>qml/Widgets/FuelIndicator.qml</file>
+        <file>qml/Widgets/TemperatureIndicator.qml</file>
+        <file>images/fuelGauge.png</file>
+        <file>images/tempGauge.png</file>
+        <file>qml/Widgets/ControlSlider.qml</file>
+        <file>JavaScriptFiles/simulationUtils.js</file>
+        <file>qml/Widgets/Drawer.qml</file>
+        <file>images/icons/closeIcon.png</file>
+        <file>images/icons/hazardLights_icon.png</file>
+        <file>images/icons/leftArrow_icon.png</file>
+        <file>images/icons/rightArrow_icon.png</file>
+        <file>images/icons/check_icon.png</file>
+        <file>images/icons/seatbelt_icon.png</file>
+        <file>images/icons/highBeams_icon.png</file>
+        <file>images/icons/lowBeams_icon.png</file>
+        <file>images/highBeams.png</file>
+        <file>images/lowBeams.png</file>
+        <file>qml/Components/Button.qml</file>
+        <file>images/icons/chevron.png</file>
+        <file>qml/Widgets/Speedometer.qml</file>
+        <file>qml/Widgets/Tachometer.qml</file>
+    </qresource>
+</RCC>
