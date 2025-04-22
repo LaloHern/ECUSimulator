@@ -1,6 +1,6 @@
 # ECUSimulator
 
-This repository contians the source code for an ECU simulator, for both its backend and front end.
+This repository contains the source code for an ECU simulator, for both its backend and front end.
 
 The ECU simulator is capable of simulating a vehicle's diagnostics according to OBDII SAE J1979 standard.
 
